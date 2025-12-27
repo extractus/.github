@@ -18,9 +18,9 @@ If you are a **Content Marketer**, **News Aggregator**, or an **Enterprise** tea
 
 We’ve built the **[Article Intelligence Suite](https://artintel.pwshub.com/)** - a managed **API** version of our core engine with advanced features:
 
-- ✅ Process millions of requests with 99.9% uptime.  
+- ✅ Process millions of requests with 99.9% uptime
 - ✅ Implemented transformations for thousands of websites
-- ✅ Built-in translation, sentiment analysis, categorization, summarization, and more.
+- ✅ Built-in translation, sentiment analysis, categorization, summarization, and more
 - ✅ Low Cost - Low Latency - Always On
 
 ### [👉 Discover Article Intelligence Suite](https://artintel.pwshub.com/)
