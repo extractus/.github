@@ -1,21 +1,28 @@
-Welcome to Extractus
+# Welcome to Extractus 
 
-We develop and share open source tools for collecting media content. 
+Here we develop and share a Web Extraction Suite designed to transform the chaotic web into clean, structured data for **AI**, **Data Analysis**, and modern **Software development**.
 
-- [feed-extractor](https://github.com/extractus/feed-extractor): extract & normalize RSS/ATOM/JSON feed
-- [article-extractor](https://github.com/extractus/article-extractor): extract main article from given URL
-- [oembed-extractor](https://github.com/extractus/oembed-extractor): extract oEmbed data from supported providers
+### 🌟 Featured Projects
 
-You can use one or combination of them to build news sites, create automated content systems for marketing campaign or gather dataset for NLP projects, etc. 
+* **[article-extractor](https://github.com/extractus/article-extractor)**: The core engine for turning messy HTML into structured JSON.
+* **[feed-extractor](https://github.com/extractus/feed-extractor)**: High-performance logic to parse RSS/Atom/JSON feeds with zero overhead.
+* **[oembed-extractor](https://github.com/extractus/oembed-extractor)**: Lightweight utility for social media metadata extraction.
 
-Here is an example based on our news engine.
+Deploy them individually or in combination to power dynamic news platforms, automate content marketing pipelines, or curate high-quality datasets for NLP and AI research.
 
-![](https://extractor-demos.pages.dev/images/content-system.svg)
+Have a feature request or encountered an issue? We welcome your feedback! Please open an issue to help us improve the ecosystem.
 
-If you have any idea, or want more features, or face any problem while using them, please create issue. 
+## 💎 Need to Scale? Meet Article Intelligence
 
-In the future, we would like to add more dedicated tools for extracting links, tweets, audios, videos, products, crypto/stock prices.
+If you are a **Content Marketer**, **News Aggregator**, or an **Enterprise** team, managing your own extraction infrastructure can be a **System admin** headache. 
 
-We have not much time. This is self-training and non-profit side project. Contributions and collaborators are always welcomed 🙂
+We’ve built the **[Article Intelligence Suite](https://artintel.pwshub.com/)** - a managed **API** version of our core engine with advanced features:
+
+- ✅ Process millions of requests with 99.9% uptime.  
+- ✅ Implemented transformations for thousands of websites
+- ✅ Built-in translation, sentiment analysis, categorization, summarization, and more.
+- ✅ Low Cost - Low Latency - Always On
+
+### [👉 Discover Article Intelligence Suite](https://artintel.pwshub.com/)
 
 ---
