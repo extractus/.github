@@ -10,9 +10,7 @@ Here we develop and share a Web Extraction Suite designed to transform the chaot
 
 Deploy them individually or in combination to power dynamic news platforms, automate content marketing pipelines, or curate high-quality datasets for NLP and AI research.
 
-Here is an example from [our news website](https://pwshub.com/):
-
-![](https://extractus.pwshub.com/images/content-system.svg)
+![](https://res.cloudinary.com/pwshub/image/upload/v1768054927/figs/ArtIntel_Pipeline.svg)
 
 Have a feature request or encountered an issue? We welcome your feedback! Please open an issue to help us improve the ecosystem.
 
