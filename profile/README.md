@@ -10,7 +10,7 @@ Here we develop and share a Web Extraction Suite designed to transform the chaot
 
 Deploy them individually or in combination to power dynamic news platforms, automate content marketing pipelines, or curate high-quality datasets for NLP and AI research.
 
-Here is an example based on our news engine:
+Here is an example from [our news website](https://pwshub.com/):
 
 ![](https://extractus.pwshub.com/images/content-system.svg)
 
