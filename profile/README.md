@@ -10,19 +10,10 @@ Here we develop and share a Web Extraction Suite designed to transform the chaot
 
 Deploy them individually or in combination to power dynamic news platforms, automate content marketing pipelines, or curate high-quality datasets for NLP and AI research.
 
+Here is an example based on our news engine:
+
+![](https://extractus.pwshub.com/images/content-system.svg)
+
 Have a feature request or encountered an issue? We welcome your feedback! Please open an issue to help us improve the ecosystem.
-
-## 💎 Need to Scale? Meet Article Intelligence
-
-If you are a **Content Marketer**, **News Aggregator**, or an **Enterprise** team, managing your own extraction infrastructure can be a **System admin** headache. 
-
-We’ve built the **[Article Intelligence Suite](https://artintel.pwshub.com/)** - a managed **API** version of our core engine with advanced features:
-
-- ✅ Process millions of requests with 99.9% uptime
-- ✅ Implemented transformations for thousands of websites
-- ✅ Built-in translation, sentiment analysis, categorization, summarization, and more
-- ✅ Low Cost - Low Latency - Always On
-
-### [👉 Discover Article Intelligence Suite](https://artintel.pwshub.com/)
 
 ---
